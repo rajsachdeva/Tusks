@@ -1,10 +1,7 @@
-rahul kumar
-deg
-asa
-sasa
-sa
+public class Demo{
 
-as
-a
+public statis void main(String[] args){
 
-sa
+  System.out.println("Hello World");
+    }
+}
